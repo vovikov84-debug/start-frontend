@@ -1,8 +1,14 @@
 <h1>Install webpack</h1>
-<code>install node js + npm<br>
-install yarn (install and upgrade)            npm install --global yarn</code>
+<p>install node js + npm:<p>
 
-initialize npm in your projecs folder (create private file "package.json")     yarn init -yp
+<p>install and upgrade yarn:</p>        
+<code>npm install --global yarn</code>
+
+<p>initialize npm in your projecs folder (create private file "package.json"):</p>
+<code>
+yarn init -y<br>
+// or
+npm init -y</code>
 
 
 Install webpack and webpack-cli
